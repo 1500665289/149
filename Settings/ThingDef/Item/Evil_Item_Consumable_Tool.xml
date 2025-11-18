@@ -24,7 +24,7 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Jin" count = "5"/>
+				<Item name = "Master_Item_LingCrystal_Jin" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
@@ -59,7 +59,7 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Shui" count = "5"/>
+				<Item name = "Master_Item_LingCrystal_Shui" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
@@ -94,7 +94,7 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Huo" count = "5"/>
+				<Item name = "Master_Item_LingCrystal_Huo" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
@@ -129,7 +129,7 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Tu" count = "5"/>
+				<Item name = "Master_Item_LingCrystal_Tu" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
@@ -164,7 +164,7 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Mu" count = "5"/>
+				<Item name = "Master_Item_LingCrystal_Mu" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
@@ -199,11 +199,11 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Jin" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Mu" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Shui" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Huo" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Tu" count = "1"/>
+				<Item name = "Master_Item_LingCrystal_Jin" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Mu" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Shui" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Huo" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Tu" count = "10"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
@@ -238,11 +238,11 @@
 			<WorkToMake>100</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Jin" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Mu" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Shui" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Huo" count = "1"/>
-				<Item name = "Master_Item_LingCrystal_Tu" count = "1"/>
+				<Item name = "Master_Item_LingCrystal_Jin" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Mu" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Shui" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Huo" count = "10"/>
+				<Item name = "Master_Item_LingCrystal_Tu" count = "10"/>
 			</CostItems>
 		</BeMade>
 		<Equip>

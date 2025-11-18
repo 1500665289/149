@@ -17,7 +17,7 @@
 			<WorkToMake>600</WorkToMake>
 			<Quality>100</Quality>
 			<CostItems>
-				<Item name = "Master_Item_LingCrystal_Jin" count = "5"/>
+				<Item name = "Master_Item_LingCrystal_Jin" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Equip>
