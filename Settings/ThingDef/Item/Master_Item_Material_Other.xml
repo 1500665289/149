@@ -49,7 +49,7 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "50"/>
+				<Item name = "Item_LingCrystal" count = "5"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -122,7 +122,7 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "50"/>
+				<Item name = "Item_LingCrystal" count = "5"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -195,7 +195,7 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "50"/>
+				<Item name = "Item_LingCrystal" count = "5"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -268,7 +268,7 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "50"/>
+				<Item name = "Item_LingCrystal" count = "5"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -341,7 +341,7 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "50"/>
+				<Item name = "Item_LingCrystal" count = "5"/>
 			</CostItems>
 		</BeMade>
 	</Item>
