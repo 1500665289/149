@@ -7,14 +7,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="100"/>
+			<li Name="MaxAge" AddV="10"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.1"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
 
@@ -47,9 +47,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -62,14 +62,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="200"/>
+			<li Name="MaxAge" AddV="20"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="4"/>
+			<li Name="NpcLingMaxValue" AddP="0.4"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.2"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="2"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.2"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.2"/>
 
@@ -102,9 +102,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -117,14 +117,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="300"/>
+			<li Name="MaxAge" AddV="30"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="9"/>
+			<li Name="NpcLingMaxValue" AddP="0.9"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="3"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.3"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="3"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.3"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.3"/>
 
@@ -157,9 +157,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -172,14 +172,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="400"/>
+			<li Name="MaxAge" AddV="40"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="16"/>
+			<li Name="NpcLingMaxValue" AddP="1.6"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="4"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.4"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="4"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.4"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.4"/>
 
@@ -212,9 +212,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -227,14 +227,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="500"/>
+			<li Name="MaxAge" AddV="50"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="25"/>
+			<li Name="NpcLingMaxValue" AddP="2.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="5"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="5"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.5"/>
 
@@ -267,9 +267,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -282,14 +282,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="600"/>
+			<li Name="MaxAge" AddV="60"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="36"/>
+			<li Name="NpcLingMaxValue" AddP="3.6"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="6"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.6"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="6"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.6"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.6"/>
 
@@ -322,9 +322,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -337,14 +337,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="700"/>
+			<li Name="MaxAge" AddV="70"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="49"/>
+			<li Name="NpcLingMaxValue" AddP="4.9"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="7"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.7"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="7"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.7"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.7"/>
 
@@ -377,9 +377,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -392,14 +392,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="800"/>
+			<li Name="MaxAge" AddV="80"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="64"/>
+			<li Name="NpcLingMaxValue" AddP="6.4"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="8"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.8"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="8"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.8"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.8"/>
 
@@ -432,9 +432,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>
@@ -447,14 +447,14 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="900"/>
+			<li Name="MaxAge" AddV="90"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="81"/>
+			<li Name="NpcLingMaxValue" AddP="8.1"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="9"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.9"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="9"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.9"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.9"/>
 
@@ -487,9 +487,9 @@
 			<li Name="HappyConsumeConstant" AddV="-0.1"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
 			<!-- 秘籍数量限制 -->
 			<li Name="EsotericaNum" AddV="5"/>
 		</Properties>

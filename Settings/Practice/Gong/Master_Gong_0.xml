@@ -11,7 +11,7 @@
 			<Stage Name="Stage1" Level="1">
 				<DisplayName>初玄境</DisplayName>
 				<Desc></Desc>
-				<Value>100</Value>
+				<Value>50000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
 						<DisplayName>初玄</DisplayName>
@@ -26,7 +26,7 @@
 			<Stage Name="Stage2" Level="2">
 				<DisplayName>入玄境</DisplayName>
 				<Desc></Desc>
-				<Value>400</Value>
+				<Value>100000</Value>
 				<Necks>
 
 					<Neck Location="1" Kind="Chance">
@@ -42,7 +42,7 @@
 			<Stage Name="Stage3" Level="3">
 				<DisplayName>真玄境</DisplayName>
 				<Desc></Desc>
-				<Value>1600</Value>
+				<Value>160600</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
 						<DisplayName>真玄</DisplayName>
@@ -57,7 +57,7 @@
 			<Stage Name="Stage4" Level="4">
 				<DisplayName>灵玄境</DisplayName>
 				<Desc></Desc>
-				<Value>6400</Value>
+				<Value>460400</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
 						<DisplayName>灵玄</DisplayName>
@@ -72,7 +72,7 @@
 			<Stage Name="Stage5" Level="5">
 				<DisplayName>地玄境</DisplayName>
 				<Desc></Desc>
-				<Value>25600</Value>
+				<Value>525600</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
 						<DisplayName>地玄</DisplayName>
@@ -87,7 +87,7 @@
 			<Stage Name="Stage6" Level="6">
 				<DisplayName>天玄境</DisplayName>
 				<Desc></Desc>
-				<Value>102400</Value>
+				<Value>1002400</Value>
 				<Necks>
 					<Neck Location="1" Kind="Gold">
 						<DisplayName>天玄</DisplayName>
@@ -99,7 +99,7 @@
 			<Stage Name="Stage7" Level="7">
 				<DisplayName>王玄境</DisplayName>
 				<Desc></Desc>
-				<Value>409600</Value>
+				<Value>1409600</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
 						<DisplayName>王玄</DisplayName>
@@ -114,7 +114,7 @@
 			<Stage Name="Stage8" Level="8">
 				<DisplayName>君玄境</DisplayName>
 				<Desc></Desc>
-				<Value>1638400</Value>
+				<Value>2638400</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
 						<DisplayName>君玄</DisplayName>

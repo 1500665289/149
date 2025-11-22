@@ -182,7 +182,7 @@
 		<BaseFive>1,0,0,0,0</BaseFive>
 		<Properties>
 			<!-- 灵气根本值 -->
-			<li Name="NpcLingMaxValue" BAddP="1"/>
+			<li Name="NpcLingMaxValue" BAddP="0.1"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_1" Type="Normal">
@@ -193,7 +193,7 @@
 		<BaseFive>0,1,0,0,0</BaseFive>
 		<Properties>
 			<!-- 灵气根本值 -->
-			<li Name="NpcLingMaxValue" BAddP="2"/>
+			<li Name="NpcLingMaxValue" BAddP="0.2"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_2" Type="Normal">
@@ -204,7 +204,7 @@
 		<BaseFive>0,0,0,1,0</BaseFive>
 		<Properties>
 			<!-- 灵气根本值 -->
-			<li Name="NpcLingMaxValue" BAddP="3"/>
+			<li Name="NpcLingMaxValue" BAddP="0.3"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_3" Type="Normal">
@@ -215,7 +215,7 @@
 		<BaseFive>0,0,0,1,0</BaseFive>
 		<Properties>
 			<!-- 灵气根本值 -->
-			<li Name="NpcLingMaxValue" BAddP="4"/>
+			<li Name="NpcLingMaxValue" BAddP="0.4"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_4" Type="Normal">
@@ -226,7 +226,7 @@
 		<BaseFive>0,0,0,0,1</BaseFive>
 		<Properties>
 			<!-- 灵气根本值 -->
-			<li Name="NpcLingMaxValue" BAddP="5"/>
+			<li Name="NpcLingMaxValue" BAddP="0.5"/>
 		</Properties>
 	</Modifier>
 
@@ -237,7 +237,7 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="5"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_6" Type="Normal">
@@ -257,7 +257,7 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="15"/>
+			<li Name="NpcLingMaxValue" AddP="0.2"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_8" Type="Normal">
@@ -267,7 +267,7 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 灵气恢复速度 -->
-			<li Name="LingAbsorbSpeed" AddP="1"/>
+			<li Name="LingAbsorbSpeed" AddP="0.1"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Xie_9" Type="Normal">
@@ -277,7 +277,7 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法术威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="5"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 		</Properties>
 	</Modifier>
 
@@ -289,7 +289,7 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
 			<!-- 法宝攻击间隔加成 -->
 			<li Name="NpcFight_FabaoCoolDownAddP" AddP="-0.05"/>
 		</Properties>
@@ -301,13 +301,13 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
 			<!-- 法宝攻击间隔加成 -->
 			<li Name="NpcFight_FabaoCoolDownAddP" AddP="-0.05"/>
 			<!-- 法宝灵气最大值加成 -->
-			<li Name="NpcFight_FabaoMaxLingAddP" AddP="50"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>
 			<!-- 法宝灵气恢复速度加成 -->
-			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="5"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Jin_2" Type="Normal">
@@ -317,17 +317,17 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
 			<!-- 法宝攻击间隔加成 -->
 			<li Name="NpcFight_FabaoCoolDownAddP" AddP="-0.05"/>
 			<!-- 法宝灵气最大值加成 -->
-			<li Name="NpcFight_FabaoMaxLingAddP" AddP="50"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>
 			<!-- 法宝灵气恢复速度加成 -->
-			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="5"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>
 			<!-- 法宝飞行速度加成 -->
-			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="0.2"/>
 			<!-- 法宝转向速度加成 -->
-			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="0.2"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Jin_3" Type="Normal">
@@ -337,21 +337,21 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
 			<!-- 法宝攻击间隔加成 -->
 			<li Name="NpcFight_FabaoCoolDownAddP" AddP="-0.05"/>
 			<!-- 法宝灵气最大值加成 -->
-			<li Name="NpcFight_FabaoMaxLingAddP" AddP="50"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>
 			<!-- 法宝灵气恢复速度加成 -->
-			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="5"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>
 			<!-- 法宝飞行速度加成 -->
-			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="0.2"/>
 			<!-- 法宝转向速度加成 -->
-			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="0.2"/>
 			<!-- 法宝击退距离加成 -->
-			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="2"/>
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="0.2"/>
 			<!-- 法宝击退距离抗性 -->
-			<li Name="NpcFight_FabaoRepelResistanceAddV" AddV="2"/>
+			<li Name="NpcFight_FabaoRepelResistanceAddV" AddV="0.2"/>
 		</Properties>
 	</Modifier>
 	<Modifier Name="Master_Modifier_Esoterica_Jin_4" Type="Normal">
@@ -361,23 +361,23 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
 			<!-- 法宝攻击间隔加成 -->
 			<li Name="NpcFight_FabaoCoolDownAddP" AddP="-0.05"/>
 			<!-- 法宝灵气最大值加成 -->
-			<li Name="NpcFight_FabaoMaxLingAddP" AddP="50"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>
 			<!-- 法宝灵气恢复速度加成 -->
-			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="5"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>
 			<!-- 法宝飞行速度加成 -->
-			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="0.2"/>
 			<!-- 法宝转向速度加成 -->
-			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="0.2"/>
 			<!-- 法宝击退距离加成 -->
-			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="2"/>
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="0.2"/>
 			<!-- 法宝击退距离抗性 -->
-			<li Name="NpcFight_FabaoRepelResistanceAddV" AddV="2"/>
+			<li Name="NpcFight_FabaoRepelResistanceAddV" AddV="0.2"/>
 			<!-- 法宝拖尾长度加成 -->
-			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="10"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="0.1"/>
 		</Properties>
 	</Modifier>
 
@@ -389,9 +389,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法术威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -405,9 +405,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -421,9 +421,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -437,9 +437,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -453,9 +453,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -471,9 +471,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -487,9 +487,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -503,9 +503,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -519,9 +519,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
@@ -535,9 +535,9 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
 			<!-- 法术灵气消耗加成 -->
-			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="0.5"/>
 			<!-- 法术吟唱时间加成 -->
 			<li Name="NpcFight_SpellCastTimeAddP" AddP="-0.1"/>
 			<!-- 法术冷却时间加成 -->
