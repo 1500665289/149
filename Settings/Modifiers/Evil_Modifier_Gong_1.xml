@@ -75,7 +75,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="40"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="2"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
@@ -185,7 +185,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="100"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="2"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
@@ -240,7 +240,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="200"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="3"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
@@ -295,7 +295,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="300"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="3"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
@@ -350,7 +350,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="400"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="3"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
@@ -405,7 +405,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="500"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="3"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
