@@ -9,12 +9,12 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="10"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="0.1"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="0.1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="0.1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
 			<!-- 护盾强度加成 -->
 			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
 
@@ -64,7 +64,7 @@
 			<!-- 寿元 -->
 			<li Name="MaxAge" AddV="20"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="0.4"/>
+			<li Name="NpcLingMaxValue" AddP="1"/>
 
 			<!-- 法宝威力加成 -->
 			<li Name="NpcFight_FabaoPowerAddP" AddP="0.2"/>
