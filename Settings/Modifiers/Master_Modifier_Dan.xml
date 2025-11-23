@@ -15,7 +15,7 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 灵气根本值 -->
-			<li Name="NpcLingMaxValue" BAddP="0.1"/>
+			<li Name="NpcLingMaxValue" BAddP="1"/>
 			<!-- 灵气恢复速度 -->
 			<li Name="LingAbsorbSpeed" AddP="1"/>
 		</Properties>
