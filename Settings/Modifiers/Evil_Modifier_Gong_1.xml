@@ -1,4 +1,5 @@
-<ModifierDefs><List>
+<ModifierDefs>
+<List>
 	<!-- 功法瓶颈加成 -->
 	<Modifier Name="Evil_Modifier_Gong_1_1" Type="Normal">
 		<DisplayName>Master_Modifier_Gong_1</DisplayName>
@@ -7,7 +8,7 @@
 		<Display>0</Display>
 		<BaseFive>9,9,9,9,9</BaseFive>
 		<Properties>
-			<li Name="PotentialOfBasepracticeAddValue" AddV="9"/>
+			<li Name="PotentialOfBasepracticeAddValue" AddV="4.5"/>
 		</Properties>
 	</Modifier>
 
@@ -18,51 +19,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="20"/>
+			<li Name="MaxAge" AddV="10"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.05"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="0.1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.05"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="2"/>
+			<li Name="EsotericaNum" AddV="1"/>
 		</Properties>
 	</Modifier>
 
@@ -73,51 +74,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="40"/>
+			<li Name="MaxAge" AddV="20"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="2"/>
+			<li Name="EsotericaNum" AddV="1"/>
 		</Properties>
 	</Modifier>
 
@@ -128,51 +129,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="60"/>
+			<li Name="MaxAge" AddV="30"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="2"/>
+			<li Name="EsotericaNum" AddV="1"/>
 		</Properties>
 	</Modifier>
 
@@ -183,51 +184,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="100"/>
+			<li Name="MaxAge" AddV="50"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.2"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="2"/>
+			<li Name="EsotericaNum" AddV="1"/>
 		</Properties>
 	</Modifier>
 
@@ -238,51 +239,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="200"/>
+			<li Name="MaxAge" AddV="100"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.6"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.3"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="5"/>
+			<li Name="EsotericaNum" AddV="2.5"/>
 		</Properties>
 	</Modifier>
 
@@ -293,51 +294,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="300"/>
+			<li Name="MaxAge" AddV="150"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="5"/>
+			<li Name="EsotericaNum" AddV="2.5"/>
 		</Properties>
 	</Modifier>
 
@@ -348,51 +349,51 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="400"/>
+			<li Name="MaxAge" AddV="200"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="5"/>
+			<li Name="EsotericaNum" AddV="2.5"/>
 		</Properties>
 	</Modifier>
 
@@ -403,51 +404,52 @@
 		<Display>0</Display>
 		<Properties>
 			<!-- 寿元 -->
-			<li Name="MaxAge" AddV="500"/>
+			<li Name="MaxAge" AddV="250"/>
 			<!-- 灵气最大值 -->
-			<li Name="NpcLingMaxValue" AddP="1"/>
+			<li Name="NpcLingMaxValue" AddP="0.5"/>
 
 			<!-- 法宝威力加成 -->
-			<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>
 			<!-- 术法伤害加成 -->
-			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>
+			<li Name="NpcFight_SpellPowerAddP" AddP="0.5"/>
 			<!-- 护盾强度加成 -->
-			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.1"/>
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>
 
 			<!-- 法宝炼制成功率加成 -->
-			<li Name="FabaoMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.05"/>
 			<!-- 丹药炼制成功率加成 -->
-			<li Name="DanMake_SuccessRateAddV" AddV="0.1"/>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.05"/>
 
 			<!-- 心情基础值 -->
-			<li Name="BaseEmotionAddV" AddV="10"/>
+			<li Name="BaseEmotionAddV" AddV="5"/>
 			<!-- 心境基础值 -->
-			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
 
 			<!-- 最低舒适温度 -->
-			<li Name="ComfyTMin" AddV="-5"/>
+			<li Name="ComfyTMin" AddV="-2.5"/>
 			<!-- 最高舒适温度 -->
-			<li Name="ComfyTMax" AddV="20"/>
+			<li Name="ComfyTMax" AddV="10"/>
 			<!-- 最低极限温度 -->
-			<li Name="ToleranceTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-10"/>
 			<!-- 最高极限温度 -->
-			<li Name="ToleranceTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="40"/>
 
 			<!-- 食物消耗速度加成 -->
-			<li Name="NutritionConsumeConstant" AddV="-0.1"/>
+			<li Name="NutritionConsumeConstant" AddV="-0.05"/>
 			<!-- 饮水消耗速度加成 -->
-			<li Name="WaterConsumeConstant" AddV="-0.1"/>
+			<li Name="WaterConsumeConstant" AddV="-0.05"/>
 			<!-- 精力消耗速度加成 -->
-			<li Name="FatigueConsumeConstant" AddV="-0.1"/>
+			<li Name="FatigueConsumeConstant" AddV="-0.05"/>
 			<!-- 娱乐消耗速度加成 -->
-			<li Name="HappyConsumeConstant" AddV="-0.1"/>
+			<li Name="HappyConsumeConstant" AddV="-0.05"/>
 
 			<!-- 修炼速度加成 -->
-			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="1"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddV="0.5"/>
 			<!-- 历练速度加成 -->
-			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.5"/>
 			<!-- 秘籍数量限制 -->
-			<li Name="EsotericaNum" AddV="5"/>
+			<li Name="EsotericaNum" AddV="2.5"/>
 		</Properties>
 	</Modifier>
-</List></ModifierDefs>
+</List>
+</ModifierDefs>
