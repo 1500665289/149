@@ -6,7 +6,7 @@
 		<Icon>res\Sprs\ui\icon_lingxi01</Icon>
 		<CostLing>0</CostLing>
 		<CostAge>0</CostAge>
-		<Param1>20</Param1><!--提高吸灵速度N倍-->
+		<Param1>2</Param1><!--提高吸灵速度N倍-->
 		<CMD>AbsorbLing</CMD>
 		<SelectType>AbsorbLing</SelectType>
 	</Magic>
