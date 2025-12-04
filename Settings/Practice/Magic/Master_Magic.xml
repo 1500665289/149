@@ -2,11 +2,11 @@
 
 	<Magic Name="Master_Magic_AbsorbLing_Aoe">
 		<DisplayName>灵息之术</DisplayName>
-		<Desc>前往指定地点吸收环境中的灵气</Desc>
+		<Desc>前往指定地点吸收环境中的灵气，但会消耗一定寿元</Desc>
 		<Icon>res\Sprs\ui\icon_lingxi01</Icon>
 		<CostLing>0</CostLing>
-		<CostAge>0</CostAge>
-		<Param1>2</Param1><!--提高吸灵速度N倍-->
+		<CostAge>2</CostAge>
+		<Param1>4</Param1><!--提高吸灵速度4倍-->
 		<CMD>AbsorbLing</CMD>
 		<SelectType>AbsorbLing</SelectType>
 	</Magic>
