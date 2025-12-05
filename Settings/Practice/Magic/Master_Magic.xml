@@ -21,6 +21,22 @@
 		<SelectType>BuildPuppet</SelectType>
 	</Magic>
 
+	<Magic Name="LingStoneMake" Type="Class">
+		<DisplayName>炼制灵石</DisplayName>
+		<Desc>将灵气凝结为灵石。</Desc>
+		<Icon>res/Sprs/ui/icon_lingjshi01</Icon>
+		<Ani>dazuo</Ani>
+		<Param1>5</Param1>
+		<Kind>None</Kind>
+		<CostLing>1000</CostLing>
+		<CostAge>0</CostAge>
+		<Penalty>0</Penalty>
+		<ScoreGood>0</ScoreGood>
+		<SelectMode>None</SelectMode>
+		<SelectTarget>None</SelectTarget>
+		<ClassName>SoulColor_Magic_1</ClassName>
+	</Magic>
+
 	<Magic Name="Master_Magic_Healing_Damage">
 		<DisplayName>化伤之术</DisplayName>
 		<Desc>运功替一个目标治疗其受到的内门伤害。疗效和施术者灵气多少有关。</Desc>
