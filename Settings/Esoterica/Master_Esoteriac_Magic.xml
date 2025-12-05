@@ -88,24 +88,9 @@
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：炼制灵石\n将灵气凝结为灵石。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>SoulColor_Magic_1</li>  <!-- 基础资源生产 -->
+			<li>LingStoneMake</li>  <!-- 基础资源生产 -->
 		</Magics>
 	</Esoterica>
-
-	<Esoterica Name="Magic_LingStoneMake_1">
-			<DisplayName>炼制灵石之术</DisplayName>
-			<Icon>res/Sprs/ui/icon_lingjshi01</Icon>
-			<StarLevel>0</StarLevel>
-			<Difficulty>2</Difficulty>
-			<!--<Desc>将灵气凝结为灵石。</Desc>-->
-			<GLevel>Qi</GLevel>
-			<Element>None</Element>
-			<Type>Refining</Type>
-			<EffectDesc>[size=10][color=#D06508]习得神通：炼制灵石\n将灵气凝结为灵石。[/color][/size]</EffectDesc>
-			<Magics>
-				<li>SoulColor_Magic_1</li>
-			</Magics>
-		</Esoterica>
 
 	<!-- 灵晶炼制 - 高级资源生产 -->
 	<Esoterica Name="Master_Esoterica_Magic_LingCrystalMake">
