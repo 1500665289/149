@@ -26,7 +26,7 @@
 		<Desc>运功替一个目标治疗其受到的内门伤害。疗效和施术者灵气多少有关。</Desc>
 		<Icon>res\Sprs\ui\icon_huashang01</Icon>
 		<Kind>Good</Kind>
-		<CostLing>1000</CostLing>
+		<CostLing>10000</CostLing>
 		<Penalty>0</Penalty>
 		<CMD>Healing_Damage</CMD>
 		<CastFavour>ThankTreat</CastFavour>
@@ -40,7 +40,7 @@
 		<TargetMood>BuildBody</TargetMood>
 		<CastFavour>ThankTreat</CastFavour>
 		<Param1>30</Param1><!--施法时间-->
-		<CostLing>20000</CostLing>
+		<CostLing>200000</CostLing>
 		<Penalty>0</Penalty>
 		<CMD>BuildBody</CMD>
 		<SelectType>Npc</SelectType>
@@ -55,7 +55,7 @@
 		<Ani>shentong1</Ani>
 		<Param1>5.334</Param1><!--施法时间-->
 		<sParam1>LightRain,HeavyRain</sParam1><!--天气名称，可以用逗号隔开-->
-		<CostLing>2000</CostLing>
+		<CostLing>20000</CostLing>
 		<CostGong>0</CostGong>
 		<CostAge>1</CostAge>
 		<CMD>AbsorbGong_15</CMD>
@@ -69,7 +69,7 @@
 		<Ani>shentong1</Ani>
 		<Param1>5.334</Param1><!--施法时间-->
 		<sParam1>SunnyDay</sParam1><!--天气名称，可以用逗号隔开-->
-		<CostLing>2000</CostLing>
+		<CostLing>20000</CostLing>
 		<CostGong>0</CostGong>
 		<CostAge>1</CostAge>
 		<CMD>AbsorbGong_15</CMD>
