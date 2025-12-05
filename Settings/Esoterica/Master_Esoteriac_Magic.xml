@@ -102,7 +102,7 @@
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：炼制灵晶\n将灵气凝结为灵晶。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>SoulColor_Magic_1</li>  <!-- 高级资源生产 -->
+			<li>LingCrystalMake</li>  <!-- 高级资源生产 -->
 		</Magics>
 	</Esoterica>
 
