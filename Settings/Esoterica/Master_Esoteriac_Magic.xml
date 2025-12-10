@@ -1,28 +1,23 @@
-<!-- 功法神通配置文件 - 主要包含各种实用技能和秘术 -->
-<Esotericas>
-<List>
-
-	<!-- 灵息之术 - 基础灵气吸收技能 -->
+<Esotericas><List>
 	<Esoterica Name="Master_Esoterica_Magic_AbsorbLing_Aoe">
 		<DisplayName>灵息之术</DisplayName>
 		<Icon>res/Sprs/ui/icon_lingxi01</Icon>
-		<StarLevel>0</StarLevel>          <!-- 星级：0星，基础技能 -->
-		<Difficulty>1</Difficulty>        <!-- 难度：非常简单 -->
-		<GLevel>Qi</GLevel>               <!-- 修炼要求：练气期 -->
-		<Element>None</Element>           <!-- 元素属性：无 -->
+		<StarLevel>0</StarLevel>
+		<Difficulty>1</Difficulty>
+		<GLevel>Qi</GLevel>
+		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：灵息之术\n前往指定地点吸收环境中的灵气。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>Master_Magic_AbsorbLing_Aoe</li>  <!-- 关联的实际技能ID -->
+			<li>Master_Magic_AbsorbLing_Aoe</li>
 		</Magics>
 	</Esoterica>
 
-	<!-- 赋灵之术 - 傀儡操控技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_BuidPuppet">
 		<DisplayName>赋灵之术</DisplayName>
 		<Icon>res/Sprs/ui/icon_souhun01</Icon>
 		<StarLevel>0</StarLevel>
-		<Difficulty>2</Difficulty>        <!-- 难度略有提升 -->
-		<GLevel>Dan1</GLevel>             <!-- 修炼要求：筑基期 -->
+		<Difficulty>2</Difficulty>
+		<GLevel>Dan1</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：赋灵之术\n对傀儡释放，赋予其灵性。赋灵的傀儡可以承担一些简单的苦力劳动，其素质与傀儡制作的品阶有关。[/color][/size]</EffectDesc>
 		<Magics>
@@ -30,13 +25,12 @@
 		</Magics>
 	</Esoterica>
 
-	<!-- 化伤之术 - 治疗类技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_Healing_Damage">
 		<DisplayName>化伤之术</DisplayName>
 		<Icon>res/Sprs/ui/icon_huashang01</Icon>
-		<StarLevel>1</StarLevel>          <!-- 星级提升至1星 -->
-		<Difficulty>3</Difficulty>        <!-- 难度：中等 -->
-		<GLevel>Dan2</GLevel>             <!-- 修炼要求：金丹期 -->
+		<StarLevel>1</StarLevel>
+		<Difficulty>3</Difficulty>
+		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：化伤之术\n运功替一个目标治疗其受到的内门伤害。[/color][/size]</EffectDesc>
 		<Magics>
@@ -44,41 +38,38 @@
 		</Magics>
 	</Esoterica>
 
-	<!-- 再造之术 - 高级治疗/复活技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_BuildBody">
 		<DisplayName>再造之术</DisplayName>
 		<Icon>res/Sprs/ui/icon_zaizao01</Icon>
 		<StarLevel>1</StarLevel>
-		<Difficulty>4</Difficulty>        <!-- 难度：较难 -->
-		<GLevel>God</GLevel>              <!-- 修炼要求：化神期 -->
+		<Difficulty>4</Difficulty>
+		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：再造之术\n对一个目标进行断肢再生,重铸他失去的所有部位。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>Master_Magic_BuildBody</li>  <!-- 类似"肢体再生"的高级技能 -->
+			<li>Master_Magic_BuildBody</li>
 		</Magics>
 	</Esoterica>
 
-	<!-- 祈天秘术 - 天气操控系列技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_PrayForWeather">
 		<DisplayName>祈天秘术</DisplayName>
 		<Icon>res/Sprs/ui/icon_shentong</Icon>
-		<StarLevel>2</StarLevel>          <!-- 最高星级：2星 -->
-		<Difficulty>5</Difficulty>        <!-- 难度：极难 -->
-		<GLevel>God2</GLevel>             <!-- 修炼要求：炼虚期 -->
+		<StarLevel>2</StarLevel>
+		<Difficulty>5</Difficulty>
+		<GLevel>God2</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：求雨之术\n习得神通：驱云之术\n习得神通：雷暴之术\n习得神通：毒瘴之术\n习得神通：暴雨之术\n习得神通：焚风之术\n习得神通：尘暴之术[/color][/size]</EffectDesc>
 		<Magics>
-			<li>Master_Magic_PrayForRain</li>        <!-- 求雨 -->
-			<li>Master_Magic_PrayForSun</li>         <!-- 驱云/晴天 -->
-			<li>Master_Magic_PrayForLightningStorm</li>  <!-- 雷暴 -->
-			<li>Master_Magic_PrayForMiasma</li>      <!-- 毒瘴 -->
-			<li>Master_Magic_PrayForRainstorm</li>   <!-- 暴雨 -->
-			<li>Master_Magic_PrayForFohn</li>        <!-- 焚风 -->
-			<li>Master_Magic_PrayForDustStorm</li>   <!-- 尘暴 -->
+			<li>Master_Magic_PrayForRain</li>
+			<li>Master_Magic_PrayForSun</li>
+			<li>Master_Magic_PrayForLightningStorm</li>
+			<li>Master_Magic_PrayForMiasma</li>
+			<li>Master_Magic_PrayForRainstorm</li>
+			<li>Master_Magic_PrayForFohn</li>
+			<li>Master_Magic_PrayForDustStorm</li>
 		</Magics>
 	</Esoterica>
 
-	<!-- 灵石炼制 - 资源生产技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_LingStoneMake">
 		<DisplayName>灵石炼制</DisplayName>
 		<Icon>res/Sprs/ui/icon_lingjshi01</Icon>
@@ -88,66 +79,59 @@
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：炼制灵石\n将灵气凝结为灵石。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>LingStoneMake</li>  <!-- 基础资源生产 -->
+			<li>LingStoneMake</li>
 		</Magics>
 	</Esoterica>
-
-	<!-- 灵晶炼制 - 高级资源生产 -->
 	<Esoterica Name="Master_Esoterica_Magic_LingCrystalMake">
 		<DisplayName>灵晶炼制</DisplayName>
 		<Icon>res/Sprs/ui/icon_lingjing01</Icon>
 		<StarLevel>0</StarLevel>
 		<Difficulty>2</Difficulty>
-		<GLevel>Dan1</GLevel>        <!-- 需要筑基期才能学习 -->
+		<GLevel>Dan1</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：炼制灵晶\n将灵气凝结为灵晶。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>LingCrystalMake</li>  <!-- 高级资源生产 -->
+			<li>LingCrystalMake</li>
 		</Magics>
 	</Esoterica>
 
-	<!-- 幽淬之法 - 物品强化技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_SoulCrystalYouPowerUp">
 		<DisplayName>幽淬之法</DisplayName>
 		<Icon>res/Sprs/ui/icon_souhun01</Icon>
 		<StarLevel>1</StarLevel>
 		<Difficulty>3</Difficulty>
-		<GLevel>Dan2</GLevel>         <!-- 需要金丹期 -->
+		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：幽淬之法\n对一个物品使用，消耗幽珀一个，有几率提高物品阶级1阶。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>SoulCrystalYouPowerUp</li>  <!-- 物品升级技能 -->
+			<li>SoulCrystalYouPowerUp</li>
 		</Magics>
 	</Esoterica>
 
-	<!-- 灵淬之法 - 高级物品强化 -->
 	<Esoterica Name="Master_Esoterica_Magic_SoulCrystalLingPowerUp">
 		<DisplayName>灵淬之法</DisplayName>
 		<Icon>res/Sprs/ui/icon_souhun01</Icon>
 		<StarLevel>1</StarLevel>
 		<Difficulty>4</Difficulty>
-		<GLevel>God</GLevel>          <!-- 需要化神期 -->
+		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：灵淬之法\n对一个物品使用，消耗灵珀一个，有几率提高物品的灵气容纳率（如果是法宝则会提高其灵气容量）。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>SoulCrystalLingPowerUp</li>  <!-- 法宝强化技能 -->
+			<li>SoulCrystalLingPowerUp</li>
 		</Magics>
 	</Esoterica>
 
-	<!-- 窥天秘法 - 预言类高级技能 -->
 	<Esoterica Name="Master_Esoterica_Magic_Prophesy">
 		<DisplayName>窥天秘法</DisplayName>
 		<Icon>res/Sprs/ui/icon_peifang</Icon>
-		<StarLevel>2</StarLevel>          <!-- 2星高级技能 -->
-		<Difficulty>5</Difficulty>        <!-- 最高难度 -->
-		<GLevel>God2</GLevel>             <!-- 需要炼虚期 -->
+		<StarLevel>2</StarLevel>
+		<Difficulty>5</Difficulty>
+		<GLevel>God2</GLevel>
 		<Element>None</Element>
 		<EffectDesc>[size=10][color=#D06508]习得神通：周天神算\n尝试预测门派所在地未来几天可能发生的事情。\n\n习得神通：大衍神算\n尝试预测某个地点未来可能发生的事情。[/color][/size]</EffectDesc>
 		<Magics>
-			<li>Prophesy</li>           <!-- 门派事件预测 -->
-			<li>Prophesy_MapStory</li>  <!-- 地图事件预测 -->
+			<li>Prophesy</li>
+			<li>Prophesy_MapStory</li>
 		</Magics>
 	</Esoterica>
-
-</List>
-</Esotericas>
+</List></Esotericas>
